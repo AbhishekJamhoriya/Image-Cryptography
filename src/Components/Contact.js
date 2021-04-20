@@ -43,7 +43,7 @@ const Contact=()=>{
                         </Col>
                         <Col md={6}>
                             <h1>
-                               For social handles
+                               For social handels
                             </h1>
                         </Col>
                     </Row>
